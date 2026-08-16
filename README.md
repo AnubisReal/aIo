@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="aIo" src="./Resources/aio-wide.svg">
+  <img alt="aIo" src="./Resources/aio-wide.png">
 
   <h1>aIo</h1>
 
